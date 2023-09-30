@@ -1,0 +1,1 @@
+The React Calculator is a web application that provides basic arithmetic calculations such as addition, subtraction, multiplication, and division. It allows users to input two numbers and perform various mathematical operations on them. Additionally, the calculator handles edge cases, such as division by zero, and provides error messages when necessary.
